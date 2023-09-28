@@ -7,3 +7,6 @@
 [submodule "submodules/nginx-proxy"]
 	path = submodules/nginx-proxy
 	url = https://github.com/QSaman/nginx-proxy.git
+[submodule "submodules/docker-bitcoin"]
+	path = submodules/docker-bitcoin
+	url = https://github.com/QSaman/docker-bitcoin.git
