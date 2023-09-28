@@ -1,0 +1,3 @@
+[submodule "submodules/docker-grav"]
+	path = submodules/docker-grav
+	url = https://github.com/QSaman/docker-grav.git
