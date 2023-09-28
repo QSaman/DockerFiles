@@ -4,3 +4,6 @@
 [submodule "submodules/nextcloud"]
 	path = submodules/nextcloud
 	url = https://github.com/QSaman/nextcloud.git
+[submodule "submodules/nginx-proxy"]
+	path = submodules/nginx-proxy
+	url = https://github.com/QSaman/nginx-proxy.git
