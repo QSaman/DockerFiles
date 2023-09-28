@@ -1,3 +1,6 @@
 [submodule "submodules/docker-grav"]
 	path = submodules/docker-grav
 	url = https://github.com/QSaman/docker-grav.git
+[submodule "submodules/nextcloud"]
+	path = submodules/nextcloud
+	url = https://github.com/QSaman/nextcloud.git
